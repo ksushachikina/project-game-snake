@@ -18,3 +18,9 @@ Game Snake
 - `highscore.json` - файл JSON с максимальным счетом
 - `score.py` - счет и рекорд с помощью JSON
 - `images` - папка с изображениями
+- `requirements.txt` - зависимости
+
+## Установка зависимостей
+```bash
+pip install -r requirements.txt
+```
